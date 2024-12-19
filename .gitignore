@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Custom
+btc
+data.csv
+PmergeMe
+RPN
